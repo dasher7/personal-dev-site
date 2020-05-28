@@ -1,0 +1,32 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Andrea Bredice"
+
+[params]
+    dateform             = "Mon Jan 02, 2006"
+    dateformfull         = "Mon Jan 2 2006 15:04:05 EST"
+    favicon              = "sam.ico"
+    homepage             = "home"                           # What to call the home page link
+    footerText           = "Hosted on Netlify thanks to GitHub, Sam and Hugo."
+
+# Metadata for Open Graph and Twitter
+    description          = "A new Hugo site."               # Max 160 characters show in search results
+    images               = ["tn.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
+    title                = "Call me Sam"
+    # rss                = ""
+
+[[params.mainMenu]]
+    link = "/projects"
+    text = "Projects"
+
+[[params.mainMenu]]
+    link = "/skill"
+    text = "Skill"
+
+[[params.mainMenu]]
+    link = "/contact"
+    text = "Contact me"
+
+[[params.mainMenu]]
+    link = "/about"
+    text = "About Andrea"
