@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andrea Bredice</title>
+    <link>https://andreabredice.dev/</link>
+    <description>Recent content on Andrea Bredice</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 May 2020 12:19:12 +0200</lastBuildDate>
+    
+	<atom:link href="https://andreabredice.dev/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Projects</title>
+      <link>https://andreabredice.dev/projects/</link>
+      <pubDate>Wed, 27 May 2020 12:19:12 +0200</pubDate>
+      
+      <guid>https://andreabredice.dev/projects/</guid>
+      <description>In terms of work-related projects, I&amp;rsquo;ve worked on different types of projects. Starting from financial services, to energetic or grocery and stores.
+But those are not the only projects I&amp;rsquo;ve been working on. Of course, I had my own little fun. Here a list of projects I built/I&amp;rsquo;ve been building. Some of them are real project, others are more a showcase or a try-it-out sort-of-boilerplate - always useful - projects.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://andreabredice.dev/contact/</link>
+      <pubDate>Wed, 27 May 2020 12:08:20 +0200</pubDate>
+      
+      <guid>https://andreabredice.dev/contact/</guid>
+      <description>Contacts I am a pretty social gut, basically you can find me on most of the social networks. Below, a brief list:
+ Linkedin GitHub DevTo Medium Instagram  </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://andreabredice.dev/about/</link>
+      <pubDate>Wed, 27 May 2020 11:55:26 +0200</pubDate>
+      
+      <guid>https://andreabredice.dev/about/</guid>
+      <description>About Andrea Hello, World! I am Andrea.
+That&amp;rsquo;s an always funny and neverending joke all devs like to sat, a clichè. I am 26 year old guy from the north of Italy, Como, to be more precise. I got a degree in computer science at the Università degli Studi di Milano in the early 2018. From that point on, guess what, I started working as developer. Actually, I&amp;rsquo;ve been working since before that day.</description>
+    </item>
+    
+    <item>
+      <title>Home</title>
+      <link>https://andreabredice.dev/main/</link>
+      <pubDate>Wed, 27 May 2020 11:22:51 +0200</pubDate>
+      
+      <guid>https://andreabredice.dev/main/</guid>
+      <description>Hello, World! I am Andrea </description>
+    </item>
+    
+    <item>
+      <title>Skills</title>
+      <link>https://andreabredice.dev/skill/</link>
+      <pubDate>Wed, 27 May 2020 11:22:51 +0200</pubDate>
+      
+      <guid>https://andreabredice.dev/skill/</guid>
+      <description>Skills As you may have guessed by my bio, I am pretty a curios guy. That&amp;rsquo;s why I like wandering through many languages. Lucky, in my so short-not-so-short carrier, I&amp;rsquo;ve been through a lot of different duties. Mainly backend sort of issue, I&amp;rsquo;ve stepped my feet onto the ground of the foggy mysterious front-end field. Also went on a pleasure trip in the sea of whales, passing through a lot of clouds.</description>
+    </item>
+    
+  </channel>
+</rss>
