@@ -1,6 +1,9 @@
 baseURL = "https://andreabredice.dev/"
 languageCode = "en-us"
 title = "Andrea Bredice"
+theme                    = "sam"
+pygmentsStyle            = "monokai"                        # https://help.farbox.com/pygments.html
+pygmentsCodefences       = true
 
 [params]
     dateform             = "Mon Jan 02, 2006"
