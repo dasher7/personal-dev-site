@@ -19,4 +19,10 @@ But let's keep thing short and straight, that's what I know.
 | JavaScript           | 85%       |
 | React                | 90%       |
 | Node                 | 70%       |
-| Docker               | 70%       |
+| Docker               | 65%       |
+| SQL                  | 80%       |
+
+As regarding of software and tools, you know, there are plenty out there.
+As dev tools related to personal and professionals projects, I used lots of Apache product.
+As software, VS Code is my fav text editor, as IDE IntelliJ over Eclipse for its flexibility and reliability.
+Alongside, console of all types, Postman, Git, various SQL clients, so many chrome extensions, you know the drill.
