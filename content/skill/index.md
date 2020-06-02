@@ -21,6 +21,8 @@ But let's keep thing short and straight, that's what I know.
 | Node                 | 70%       |
 | Docker               | 65%       |
 | SQL                  | 80%       |
+| GraphQL              | 70%       |
+| Firebase             | 60%       |
 
 As regarding of software and tools, you know, there are plenty out there.
 As dev tools related to personal and professionals projects, I used lots of Apache product.
