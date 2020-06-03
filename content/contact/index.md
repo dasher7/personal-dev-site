@@ -6,7 +6,12 @@ draft: false
 
 ### Contacts
 
-I am a pretty social gut, basically you can find me on most of the social networks.
+I am a pretty social guy, basically you can find me on most of the social networks.
+
+Firts of all, you should know that one of my passion is writing.
+Therefore, i created [Tybearder](https://tybearder.com/) , a personal place where I can share my stories.
+You eventually may find them on Medium, as listed below, but having my little intimate space in this crowded world, matters to me.
+
 Below, a brief list:
 
 - [Linkedin](https://www.linkedin.com/in/andrea-bredice-63b102161/)
