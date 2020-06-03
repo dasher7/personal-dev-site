@@ -16,7 +16,6 @@ Below, a brief list:
 
 - [Linkedin](https://www.linkedin.com/in/andrea-bredice-63b102161/)
 - [GitHub](https://github.com/dasher7)
-<!--- - [DevTo](https://dev.to/dasher7) --->
 - [Medium](https://medium.com/@bredice.andrea)
 - [ArtStation](https://www.artstation.com/andrea_bredice)
 - [Instagram](https://medium.com/@bredice.andrea)
