@@ -1,22 +1,32 @@
 baseURL = "https://andreabredice.dev/"
 languageCode = "en-us"
-title = "Andrea Bredice"
+title = "Andrea Bredice - Be Dev"
 theme                    = "sam"
 pygmentsStyle            = "monokai"                        # https://help.farbox.com/pygments.html
 pygmentsCodefences       = true
+enableEmoji = true
+enableGitInfo = true
+enableRobotsTXT = true
+canonifyURLs = true
 
 [params]
+
+    author = "Andrea Bredice"
+    title                = "Andrea Bredice - Be Dev"
+    sitename = "Andrea Bredice - Be Dev"
+    description          = "Hello World, I am Andrea Bredice! Motto: the achievement of the objectives is just as important as the path followed to get them."               # Max 160 characters show in search results
+    images               = ["preview.png"]
+    og_image = "/images/preview.png"
+    favicon              = "ab.ico"
+    footerText           = "Hosted on Netlify thanks to GitHub, Sam and Hugo - we're all best friends."
+
     dateform             = "Mon Jan 02, 2006"
     dateformfull         = "Mon Jan 2 2006 15:04:05 EST"
-    favicon              = "ab.ico"
-    homepage             = "home"                           # What to call the home page link
-    footerText           = "Hosted on Netlify thanks to GitHub, Sam and Hugo."
 
-# Metadata for Open Graph and Twitter
-    description          = "Hello World, I am Andrea Bredice! Always curious to discover and learn new things. Motto: the achievement of the objectives is just as important as the path followed to get them."               # Max 160 characters show in search results
-    images               = ["tn.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
-    title                = "Andrea Bredice - Be Dev"
-    # rss                = ""
+    github = "https://github.com/dasher7"
+    facebook = "https://www.facebook.com/andrebredi"
+    twitter = "@andreabredi"
+    instagram = "@andrea_bredice"
 
 [[params.mainMenu]]
     link = "/projects"
