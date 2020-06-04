@@ -4,10 +4,10 @@ title = "Andrea Bredice - Be Dev"
 theme                    = "sam"
 pygmentsStyle            = "monokai"
 pygmentsCodefences       = true
-enableEmoji = true
-enableGitInfo = true
-enableRobotsTXT = true
-canonifyURLs = true
+#enableEmoji = true
+#enableGitInfo = true
+#enableRobotsTXT = true
+#canonifyURLs = true
 
 [params]
 
@@ -17,7 +17,7 @@ canonifyURLs = true
     description          = "Hello World, I am Andrea Bredice! Motto: the achievement of the objectives is just as important as the path followed to get them."               # Max 160 characters show in search results
     images               = ["preview.png"]
     homepage = "home"
-    og_image = "/images/preview.png"
+    #og_image = "/images/preview.png"
     favicon              = "ab.ico"
     footerText           = "Hosted on Netlify thanks to GitHub, Sam and Hugo - we're all best friends."
 
